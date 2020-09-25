@@ -1,0 +1,11 @@
+{
+    "name": "Huguesbonin.Mydummypackage.Tests",
+    "references": [
+        "Huguesbonin.Mydummypackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

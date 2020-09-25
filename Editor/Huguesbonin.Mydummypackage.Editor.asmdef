@@ -1,0 +1,10 @@
+{
+    "name": "Huguesbonin.Mydummypackage.Editor",
+    "references": [
+      "Huguesbonin.Mydummypackage"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

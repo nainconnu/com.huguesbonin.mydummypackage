@@ -1,0 +1,14 @@
+{
+    "name": "Huguesbonin.Mydummypackage.Editor.Tests",
+    "references": [
+        "Huguesbonin.Mydummypackage.Editor",
+        "Huguesbonin.Mydummypackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
